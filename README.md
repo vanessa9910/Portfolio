@@ -1,6 +1,7 @@
 # Portfolio
 
-##Primer Parcial
+Primer Parcial
+---
 
   **-Metodo de Bisección**
   
@@ -14,7 +15,8 @@
   
   **-Método Gráfico**
   
-##Segundo Parcial
+Segundo Parcial
+---
 
 **-Funciones con Matrices**
 
@@ -26,7 +28,8 @@
 
 **-Gauss-Seidel**
 
-##Tercer Parcial
+Tercer Parcial
+---
 
 **-Regresión Polinomial**
 
