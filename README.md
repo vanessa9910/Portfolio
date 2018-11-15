@@ -3,40 +3,40 @@
 Primer Parcial
 ---
 
-  *Metodo de Bisección
+  * Metodo de Bisección
   
-  *Convergencia y Divergencia
+  * Convergencia y Divergencia
   
-  *Newton-Raphson
+  * Newton-Raphson
   
-  *Falsa Posición
+  * Falsa Posición
   
-  *Punto Fijo
+  * Punto Fijo
   
-  *Método Gráfico
+  * Método Gráfico
   
 Segundo Parcial
 ---
 
-*Funciones con Matrices
+* Funciones con Matrices
 
-*Eliminación Gaussiana
+* Eliminación Gaussiana
 
-*Factorización LU
+* Factorización LU
 
-*Newton-Raphson Sistemas de ecuaciones
+* Newton-Raphson Sistemas de ecuaciones
 
-*Gauss-Seidel
+* Gauss-Seidel
 
 Tercer Parcial
 ---
 
-*Regresión Polinomial
+* Regresión Polinomial
 
-*Interpolación Polinomial
+* Interpolación Polinomial
 
-*Método de Lagrange
+* Método de Lagrange
 
-*Integración Númerica
+* Integración Númerica
 
-*Ecuaciones Diferenciales-Euler
+* Ecuaciones Diferenciales-Euler
