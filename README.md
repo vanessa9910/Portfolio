@@ -3,6 +3,11 @@
 Primer Parcial
 ---
 
+En este curso aprendimos diferentes tipos de métodos númericos para poder resolver distintas ecuaciones diferenciales. Ademas
+los métodos númericos son caracterizados por ser cálculos meramente aritméticos y lógicos. El resultado de un método númerico te
+da la aproximación a un posible resultado de un problema y la eficiencia de este es dependiendo de la facilidad, implementación
+y herramientas requeridas de cada uno. Por lo general cuando se implementan este tipo de métododos se crea un error.
+
   * **Metodo de Bisección**
   
               Link: https://github.com/vanessa9910/Metodo_de_biseccion
