@@ -5,70 +5,71 @@ Primer Parcial
 
   * **Metodo de Bisección**
   
-              Link: 
+              Link: https://github.com/vanessa9910/Metodo_de_biseccion
               
   * **Convergencia y Divergencia**
   
-              Link:
+              Link:https://github.com/vanessa9910/Convergencia-y-Divergencia
               
   * **Newton-Raphson**
   
-              Link:
+              Link:https://github.com/vanessa9910/Newton-Raphson
               
   * **Falsa Posición**
   
-              Link:
+              Link:https://github.com/vanessa9910/Falsa-Posicion
               
   * **Punto Fijo**
   
-              Link:
+              Link:https://github.com/vanessa9910/Punto-Fijo
               
   * **Método Gráfico**
-              Link:
+  
+              Link:https://github.com/vanessa9910/Metodo-Grafico
               
 Segundo Parcial
 ---
 
 * **Funciones con Matrices**
 
-            Link:
+            Link:https://github.com/vanessa9910/Funciones-con-Matrices
             
 * **Eliminación Gaussiana**
 
-            Link:
+            Link:https://github.com/vanessa9910/Eliminacion-Gaussiana
             
 * **Factorización LU**
 
-            Link:
+            Link:https://github.com/vanessa9910/Factorizacion-LU
             
 * **Newton-Raphson Sistemas de ecuaciones**
 
-            Link:
+            Link:https://github.com/vanessa9910/Newton-Raphson-Sistemas-de-Ecuaciones
             
 * **Gauss-Seidel**
 
-            Link:
+            Link:https://github.com/vanessa9910/Gauss-Seidel
             
 Tercer Parcial
 ---
 
 * **Regresión Polinomial**
 
-            Link:
+            Link:https://github.com/vanessa9910/Regresion-Polinomial
             
 * **Interpolación Polinomial**
 
-            Link:
+            Link:https://github.com/vanessa9910/Interpolacion-Polinomial
             
 * **Método de Lagrange**
 
-            Link:
+            Link:https://github.com/vanessa9910/Metodo-de-Lagrange
             
 * **Integración Númerica**
 
-            Link:
+            Link:https://github.com/vanessa9910/Integracion-Numerica
             
 * **Ecuaciones Diferenciales-Euler**
 
-            Link:
+            Link:https://github.com/vanessa9910/EDO-euler
             
